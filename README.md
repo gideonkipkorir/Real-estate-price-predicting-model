@@ -21,7 +21,7 @@ A model that can predict house_prices with above 80% accuracy
 4. Lasso Regression
 5. Elastic Net Regressions
 
-**Dataset**
+**Data source**
 
 The dataset to use for this project can be found by following this link: [http://bit.ly/IndependentProjectWeek7Dataset (Links to an external site.)]. 
 
