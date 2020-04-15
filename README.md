@@ -1,4 +1,16 @@
-**Regression Teechniques applied;**
+
+**Problem statement**
+Create a mode that can predict prices of real estates prices based on certain features
+
+**Metric for success**
+A model that can predict house_prices with above 70% accuracy
+**Experimental design**
+1. Data cleaning
+2. data understanding
+3. Exploratory data analysis
+4. Modelling
+
+**Regression Techniques applied;**
 1. Multiple Linear Regression
 2. Quantile Regression
 3. Ridge Regression
